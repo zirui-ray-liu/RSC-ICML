@@ -1,6 +1,5 @@
 This is the official codes for RSC: Accelerating Graph Neural Networks Training via Randomized Sparse Computations.
 
-**FOR REVIEW ONLY, DO NOT DISTRIBUTE**
 
 ## Install
 This code is tested with Python 3.8 and CUDA 11.0. To reproduce the results in this paper, please follow the below configuration.
